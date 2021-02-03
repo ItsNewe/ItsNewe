@@ -1,7 +1,8 @@
-### Newe
+### Hello :)
 
 ![Newe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsNewe&show_icons=true&count_private=true&theme=merko)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNewe&layout=compact&theme=merko)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItsNewe&layout=compact&theme=merko)]
 <!--
 **ItsNewe/ItsNewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
