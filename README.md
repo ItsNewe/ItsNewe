@@ -8,5 +8,6 @@
 ![](https://anlucas.neocities.org/ieisevil.gif)
 ![](https://anlucas.neocities.org/hatemac.jpg)
 ![](https://anlucas.neocities.org/hamexp.png)
+![](https://c7.pm/img/toast.png)
 #
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Newe&layout=compact&theme=merko)
